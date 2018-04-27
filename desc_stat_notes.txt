@@ -1,0 +1,32 @@
+
+[Introduction to statistics]
+
+* It is divided into: descriptive and inferential statistics.
+
+* Descriptive statistics:
+	- Summarize, describe and characterize the sample.
+
+	- Determine if the sample is normally distributed (bell curve).
+
+	- Determine if the sample can be compared to the larger population.
+
+	- Are displayed as tables, charts, percentage, frequency 
+	  distributions, and as measures of central tendency.
+
+* Central tendency:
+	- Mean
+	
+	- Median
+	
+	- Mode
+	
+
+* Measures of variability:
+	- Range: difference between the largest and smallest number.
+	
+	- Variance: how far the numbers are spread out. 
+	
+	- Standard deviation: how much variation exists from the mean.
+
+* Skewness: how symmetrical the distribution of variable is.
+	
